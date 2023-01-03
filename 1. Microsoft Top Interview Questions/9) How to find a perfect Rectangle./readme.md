@@ -32,4 +32,4 @@
 	<li><code>rectangles[i].length == 4</code></li>
 	<li><code>-10<sup>5</sup> &lt;= x<sub>i</sub>, y<sub>i</sub>, a<sub>i</sub>, b<sub>i</sub> &lt;= 10<sup>5</sup></code></li>
 </ul>
-</div></div>
+</div></div> 
